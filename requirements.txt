@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langgraph
+faiss-cpu
+openai
+transformers
+torch
+sentence-transformers
+streamlit

@@ -1,0 +1,1 @@
+Retrieval Augmented Generation (RAG) uses external knowledge to ground LLM outputs.

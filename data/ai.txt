@@ -1,0 +1,1 @@
+Responsible AI includes fairness, bias mitigation, explainability, and safety guardrails.
