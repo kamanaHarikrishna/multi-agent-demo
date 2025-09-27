@@ -8,3 +8,6 @@ transformers
 torch
 sentence-transformers
 streamlit
+langchain-community
+langchain-huggingface
+
